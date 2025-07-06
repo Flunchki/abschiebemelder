@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7704695,
+          50.8090106
+        ]
+      },
+      "properties": {
+        "id": "<ba039e3d89fa95c18a2bdf94e7b1faad@dielinke-giessen.de>",
+        "name": "Sidat",
+        "status": "droht",
+        "ort": "Marburg",
+        "beschreibung": "Ausbildungsplatz aber Abschiebung nach Rumänien",
+        "link": "",
+        "herkunftsland": "",
+        "meldedatum": "2025-07-06",
+        "quelle": "Formular"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6938161,
+          50.5808795
+        ]
+      },
+      "properties": {
+        "id": "",
+        "name": "Aysu",
+        "status": "vollzogen",
+        "ort": "Gießen",
+        "beschreibung": "Ausbildungsplatz als Pflegehilfkraft, Abschiebung nach Aserbaidschan",
+        "link": "",
+        "herkunftsland": "",
+        "meldedatum": "",
+        "quelle": "Presse"
+      }
+    }
+  ]
+}
